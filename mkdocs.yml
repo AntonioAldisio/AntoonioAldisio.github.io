@@ -1,0 +1,12 @@
+site_name: AntoonioAldisio
+
+theme:
+  name: material
+  language: pt
+
+docs_dir: docs/
+
+nav:
+  - Sobre: index.md
+  - Projetos:
+    - E-Vacina: 'Projetos/e-vacina.md'
